@@ -1,0 +1,40 @@
+/**
+ * Every step element has one of three classes: `future`, `present` and `past`.
+ * Only one current step has the `present` class.
+ * When a step is shown (selected) its element gets the class of "active" and 
+ * the body element gets the class `impress-on-ID` where ID is the step's id.
+ */
+
+body {
+  font-family: 'PT Sans', sans-serif;
+
+  min-height: 740px;
+
+  background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 500, from(rgb(240, 240, 240)), to(rgb(190, 190, 190)));
+  background: -webkit-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
+  background:    -moz-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
+  background:      -o-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
+  background:         radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
+  background: url('../images/blue_sky_wallpaper_by_rachid7hmid-d5c5iq5.jpg') rgba(215, 215, 215, 0.8);
+
+  -webkit-font-smoothing: antialiased;
+}
+
+.notes {
+  display:none;
+}
+
+.step h2 {
+  font-size: 78px;
+  font-weight: bold;
+}
+
+.openfest-logo {
+  position: absolute;
+  top: 0;
+  left: 400px;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+  box-shadow: 10px 10px 5px #888888;
+}
