@@ -29,12 +29,52 @@ body {
   font-weight: bold;
 }
 
-.openfest-logo {
-  position: absolute;
-  top: 0;
-  left: 400px;
+img {
   border-color: black;
   border-style: solid;
   border-width: 5px;
   box-shadow: 10px 10px 5px #888888;
+}
+
+img.openfest-logo {
+  position: absolute;
+  top: 0;
+  left: 620px;
+  width: 320px;
+}
+
+img.me-logo {
+  max-width: 300px;
+  position: absolute;
+  top: 0;
+  left: 600px;
+}
+
+img.terms-logo {
+  margin-left: 150px;
+}
+
+img.care-logo {
+  opacity: 0.7;
+}
+
+img.evil-company-logo {
+  opacity: 0.7;
+  width: 400px;
+}
+
+ol, ul {
+  list-style: inherit;
+}
+
+ul {
+  list-style-type: square;
+}
+
+ul.small {
+  list-style-type: circle;
+  font-size: 28px;
+  margin-top: 20px;
+  margin-left: 30px;
+  font-style: italic;
 }
