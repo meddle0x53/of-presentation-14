@@ -50,7 +50,7 @@
             "y": 0,
             "z": 3000,
             "scale": 0.5,
-            "rotate-x": 0,
+            "rotate-x": 45,
             "rotate-y": 0,
             "rotate-z": 0
         }
@@ -65,6 +65,482 @@
             "z": 6000,
             "scale": 0.5,
             "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "who-are-you.html",
+        "id": "who-are-you",
+        "class": "step",
+        "data": {
+            "x": 9000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "terms-1.html",
+        "id": "terms-1",
+        "class": "step",
+        "data": {
+            "x": 12000,
+            "y": 0,
+            "z": -6000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "terms-2.html",
+        "id": "terms-2",
+        "class": "step",
+        "data": {
+            "x": 12000,
+            "y": 0,
+            "z": -3000,
+            "scale": 0.5,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "terms-3.html",
+        "id": "terms-3",
+        "class": "step",
+        "data": {
+            "x": 12000,
+            "y": 0,
+            "z": 0,
+            "scale": 0.5,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "companies-1.html",
+        "id": "companies-1",
+        "class": "step",
+        "data": {
+            "x": 15000,
+            "y": 0,
+            "z": -6000,
+            "scale": 1,
+            "rotate-x": 180,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "companies-2.html",
+        "id": "companies-2",
+        "class": "step",
+        "data": {
+            "x": 15000,
+            "y": 0,
+            "z": -3000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "companies-3.html",
+        "id": "companies-3",
+        "class": "step",
+        "data": {
+            "x": 15000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "companies-4.html",
+        "id": "companies-4",
+        "class": "step",
+        "data": {
+            "x": 15000,
+            "y": 0,
+            "z": 3000,
+            "scale": 1,
+            "rotate-x": 45,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "companies-5.html",
+        "id": "companies-5",
+        "class": "step",
+        "data": {
+            "x": 15000,
+            "y": 0,
+            "z": 6000,
+            "scale": 2,
+            "rotate-x": 45,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "companies-6.html",
+        "id": "companies-6",
+        "class": "step",
+        "data": {
+            "x": 15000,
+            "y": 0,
+            "z": 9000,
+            "scale": 1,
+            "rotate-x": 45,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "companies-7.html",
+        "id": "companies-7",
+        "class": "step",
+        "data": {
+            "x": 15000,
+            "y": 0,
+            "z": 12000,
+            "scale": 1,
+            "rotate-x": 45,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "companies-8.html",
+        "id": "companies-8",
+        "class": "step",
+        "data": {
+            "x": 15000,
+            "y": 0,
+            "z": 15000,
+            "scale": 1,
+            "rotate-x": 43,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "companies-9.html",
+        "id": "companies-9",
+        "class": "step",
+        "data": {
+            "x": 15000,
+            "y": 0,
+            "z": 18000,
+            "scale": 2,
+            "rotate-x": 44,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "companies-10.html",
+        "id": "companies-10",
+        "class": "step",
+        "data": {
+            "x": 15000,
+            "y": 0,
+            "z": 21000,
+            "scale": 3,
+            "rotate-x": 45,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "companies-11.html",
+        "id": "companies-11",
+        "class": "step",
+        "data": {
+            "x": 15000,
+            "y": 0,
+            "z": 24000,
+            "scale": 4,
+            "rotate-x": 46,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "companies-12.html",
+        "id": "companies-12",
+        "class": "step",
+        "data": {
+            "x": 15000,
+            "y": 0,
+            "z": 27000,
+            "scale": 5,
+            "rotate-x": 47,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "menagement-1.html",
+        "id": "menagement-1",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": 9000,
+            "z": -9000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "menagement-2.html",
+        "id": "menagement-2",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": 9000,
+            "z": -6000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 180,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "menagement-3.html",
+        "id": "menagement-3",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": 9000,
+            "z": -3000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "menagement-4.html",
+        "id": "menagement-4",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": 9000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 45,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "menagement-5.html",
+        "id": "menagement-5",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": 9000,
+            "z": 3000,
+            "scale": 2,
+            "rotate-x": 46,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "menagement-6.html",
+        "id": "menagement-6",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": 9000,
+            "z": 6000,
+            "scale": 3,
+            "rotate-x": 47,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "menagement-7.html",
+        "id": "menagement-7",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": 9000,
+            "z": 9000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "menagement-8.html",
+        "id": "menagement-8",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": 9000,
+            "z": 12000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "about-us-1.html",
+        "id": "about-us-1",
+        "class": "step",
+        "data": {
+            "x": -9000,
+            "y": 18000,
+            "z": -12000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "about-us-2.html",
+        "id": "about-us-2",
+        "class": "step",
+        "data": {
+            "x": -9000,
+            "y": 18000,
+            "z": -9000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "about-us-3.html",
+        "id": "about-us-3",
+        "class": "step",
+        "data": {
+            "x": -9000,
+            "y": 18000,
+            "z": -6000,
+            "scale": 1,
+            "rotate-x": 180,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "about-us-4.html",
+        "id": "about-us-4",
+        "class": "step",
+        "data": {
+            "x": -9000,
+            "y": 18000,
+            "z": -3000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "about-us-5.html",
+        "id": "about-us-5",
+        "class": "step",
+        "data": {
+            "x": -9000,
+            "y": 18000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 45,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "about-us-6.html",
+        "id": "about-us-6",
+        "class": "step",
+        "data": {
+            "x": -9000,
+            "y": 18000,
+            "z": 3000,
+            "scale": 2,
+            "rotate-x": 46,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "about-us-7.html",
+        "id": "about-us-7",
+        "class": "step",
+        "data": {
+            "x": -9000,
+            "y": 18000,
+            "z": 6000,
+            "scale": 3,
+            "rotate-x": 47,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "about-us-8.html",
+        "id": "about-us-8",
+        "class": "step",
+        "data": {
+            "x": -9000,
+            "y": 18000,
+            "z": 9000,
+            "scale": 4,
+            "rotate-x": 48,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "about-us-9.html",
+        "id": "about-us-9",
+        "class": "step",
+        "data": {
+            "x": -9000,
+            "y": 18000,
+            "z": 12000,
+            "scale": 5,
+            "rotate-x": 49,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "about-us-10.html",
+        "id": "about-us-10",
+        "class": "step",
+        "data": {
+            "x": -9000,
+            "y": 18000,
+            "z": 15000,
+            "scale": 4,
+            "rotate-x": 50,
             "rotate-y": 0,
             "rotate-z": 90
         }
