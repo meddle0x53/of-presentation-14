@@ -63,6 +63,10 @@ img.evil-company-logo {
   width: 400px;
 }
 
+img.coda-logo {
+  width: 450px;
+}
+
 ol, ul {
   list-style: inherit;
 }
