@@ -511,7 +511,7 @@
             "x": -9000,
             "y": 18000,
             "z": 9000,
-            "scale": 4,
+            "scale": 1,
             "rotate-x": 48,
             "rotate-y": 0,
             "rotate-z": 90
@@ -525,7 +525,7 @@
             "x": -9000,
             "y": 18000,
             "z": 12000,
-            "scale": 5,
+            "scale": 1,
             "rotate-x": 49,
             "rotate-y": 0,
             "rotate-z": 90
@@ -539,8 +539,232 @@
             "x": -9000,
             "y": 18000,
             "z": 15000,
-            "scale": 4,
+            "scale": 1,
             "rotate-x": 50,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "about-us-11.html",
+        "id": "about-us-11",
+        "class": "step",
+        "data": {
+            "x": -9000,
+            "y": 18000,
+            "z": 18000,
+            "scale": 1,
+            "rotate-x": 49,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "about-us-12.html",
+        "id": "about-us-12",
+        "class": "step",
+        "data": {
+            "x": -9000,
+            "y": 18000,
+            "z": 21000,
+            "scale": 1,
+            "rotate-x": 48,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "about-us-13.html",
+        "id": "about-us-13",
+        "class": "step",
+        "data": {
+            "x": -9000,
+            "y": 18000,
+            "z": 24000,
+            "scale": 1,
+            "rotate-x": 47,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "about-us-14.html",
+        "id": "about-us-14",
+        "class": "step",
+        "data": {
+            "x": -9000,
+            "y": 18000,
+            "z": 27000,
+            "scale": 1,
+            "rotate-x": 46,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "about-us-15.html",
+        "id": "about-us-15",
+        "class": "step",
+        "data": {
+            "x": -9000,
+            "y": 18000,
+            "z": 30000,
+            "scale": 1,
+            "rotate-x": 45,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "the-world-1.html",
+        "id": "the-world-1",
+        "class": "step",
+        "data": {
+            "x": -9000,
+            "y": 18000,
+            "z": 33000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "the-world-2.html",
+        "id": "the-world-2",
+        "class": "step",
+        "data": {
+            "x": -9000,
+            "y": 18000,
+            "z": 36000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "the-world-3.html",
+        "id": "the-world-3",
+        "class": "step",
+        "data": {
+            "x": -9000,
+            "y": 18000,
+            "z": 39000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "the-world-4.html",
+        "id": "the-world-4",
+        "class": "step",
+        "data": {
+            "x": -9000,
+            "y": 18000,
+            "z": 42000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "the-world-5.html",
+        "id": "the-world-5",
+        "class": "step",
+        "data": {
+            "x": -9000,
+            "y": 18000,
+            "z": 45000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "the-world-6.html",
+        "id": "the-world-6",
+        "class": "step",
+        "data": {
+            "x": -9000,
+            "y": 18000,
+            "z": 48000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "freedom-1.html",
+        "id": "freedom-1",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "z": 51000,
+            "scale": 0.6,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "freedom-2.html",
+        "id": "freedom-2",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "z": 54000,
+            "scale": 0.5,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "freedom-3.html",
+        "id": "freedom-3",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "z": 57000,
+            "scale": 0.4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "coda-1.html",
+        "id": "coda-1",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "z": 60000,
+            "scale": 2,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "coda-2.html",
+        "id": "coda-2",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "z": 63000,
+            "scale": 3,
+            "rotate-x": 0,
             "rotate-y": 0,
             "rotate-z": 90
         }
