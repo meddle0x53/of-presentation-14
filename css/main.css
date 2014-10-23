@@ -34,6 +34,12 @@ img {
   border-style: solid;
   border-width: 5px;
   box-shadow: 10px 10px 5px #888888;
+
+}
+
+div.ci {
+  text-align:center;
+  display:block;
 }
 
 img.openfest-logo {
@@ -50,8 +56,19 @@ img.me-logo {
   left: 600px;
 }
 
+img.astea-logo {
+  min-width: 266px;
+}
+
+img.proact-logo {
+  min-width: 310px;
+}
+
+img.tapi-logo {
+  min-width: 600px;
+}
+
 img.terms-logo {
-  margin-left: 150px;
 }
 
 img.care-logo {
@@ -63,8 +80,16 @@ img.evil-company-logo {
   width: 400px;
 }
 
-img.coda-logo {
+img.leader-boss-logo {
   width: 450px;
+}
+
+img.meshuggah-face {
+  width: 300px;
+}
+
+img.coda-logo {
+  width: 400px;
 }
 
 ol, ul {
@@ -76,9 +101,24 @@ ul {
 }
 
 ul.small {
-  list-style-type: circle;
+  list-style-type: none;
   font-size: 28px;
   margin-top: 20px;
   margin-left: 30px;
   font-style: italic;
+  text-align: center;
+}
+
+a.link-to-this {
+  font-size: 30px;
+  color: white;
+  background-color: black;
+}
+
+h2.title, h2.title p, p.left {
+  text-align: left;
+}
+
+h2, p, a {
+  text-align: center;
 }
