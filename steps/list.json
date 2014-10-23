@@ -56,13 +56,27 @@
         }
     },
     {
+        "uri": "who-am-i-3.html",
+        "id": "who-am-i-3",
+        "class": "step",
+        "data": {
+            "x": 6000,
+            "y": 0,
+            "z": 4000,
+            "scale": 2,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
         "uri": "who-am-i-2.html",
         "id": "who-am-i-2",
         "class": "step",
         "data": {
             "x": 6000,
             "y": 0,
-            "z": 6000,
+            "z": -6000,
             "scale": 0.5,
             "rotate-x": 0,
             "rotate-y": 0,
@@ -103,7 +117,7 @@
         "class": "step",
         "data": {
             "x": 12000,
-            "y": 0,
+            "y": 3000,
             "z": -3000,
             "scale": 0.5,
             "rotate-x": 0,
@@ -117,7 +131,7 @@
         "class": "step",
         "data": {
             "x": 12000,
-            "y": 0,
+            "y": 6000,
             "z": 0,
             "scale": 0.5,
             "rotate-x": 0,
@@ -145,7 +159,7 @@
         "class": "step",
         "data": {
             "x": 15000,
-            "y": 0,
+            "y": 3000,
             "z": -3000,
             "scale": 1,
             "rotate-x": 0,
@@ -312,7 +326,7 @@
         "id": "menagement-2",
         "class": "step",
         "data": {
-            "x": 0,
+            "x": -18000,
             "y": 9000,
             "z": -6000,
             "scale": 1,
@@ -326,7 +340,7 @@
         "id": "menagement-3",
         "class": "step",
         "data": {
-            "x": 0,
+            "x": -15000,
             "y": 9000,
             "z": -3000,
             "scale": 1,
@@ -382,7 +396,7 @@
         "id": "menagement-7",
         "class": "step",
         "data": {
-            "x": 0,
+            "x": -12000,
             "y": 9000,
             "z": 9000,
             "scale": 1,
@@ -428,7 +442,7 @@
             "y": 18000,
             "z": -9000,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
             "rotate-z": 90
         }
@@ -443,7 +457,7 @@
             "z": -6000,
             "scale": 1,
             "rotate-x": 180,
-            "rotate-y": 0,
+            "rotate-y": 45,
             "rotate-z": 90
         }
     },
@@ -638,7 +652,7 @@
             "y": 18000,
             "z": 36000,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
             "rotate-z": 90
         }
@@ -652,7 +666,7 @@
             "y": 18000,
             "z": 39000,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 270,
             "rotate-y": 0,
             "rotate-z": 90
         }
@@ -667,7 +681,7 @@
             "z": 42000,
             "scale": 1,
             "rotate-x": 0,
-            "rotate-y": 0,
+            "rotate-y": 45,
             "rotate-z": 90
         }
     },
@@ -680,7 +694,7 @@
             "y": 18000,
             "z": 45000,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
             "rotate-z": 90
         }
@@ -723,7 +737,7 @@
             "z": 54000,
             "scale": 0.5,
             "rotate-x": 0,
-            "rotate-y": 0,
+            "rotate-y": 90,
             "rotate-z": 90
         }
     },
