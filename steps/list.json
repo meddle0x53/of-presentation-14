@@ -24,7 +24,7 @@
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-z": 0
         }
     },
     {
@@ -38,7 +38,7 @@
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-z": 0
         }
     },
     {
@@ -75,10 +75,10 @@
         "class": "step",
         "data": {
             "x": 6000,
-            "y": 0,
-            "z": -6000,
-            "scale": 0.5,
-            "rotate-x": 0,
+            "y": 3000,
+            "z": 4000,
+            "scale": 2,
+            "rotate-x": 180,
             "rotate-y": 0,
             "rotate-z": 90
         }
