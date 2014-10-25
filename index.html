@@ -39,7 +39,9 @@
       $.getJSON('steps/list.json', function(data) {
         Presentation.appendSlides(data);
 
-        impress().init();
+        window.impressApi = impress();
+
+        impressApi.init();
         impressConsole().init();
       });
     </script>
