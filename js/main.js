@@ -18,7 +18,7 @@
       var templ = htmltempl;
 
       $.ajax({
-        url: 'steps/' + step.uri,
+        url: '/of-presentation-14/steps/' + step.uri,
         success: function (data) {
           $('.steps').append(templ({file: data, data: step.data,
                                    class: step.class, id: step.id}));
