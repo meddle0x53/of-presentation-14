@@ -42,20 +42,6 @@
         }
     },
     {
-        "uri": "who-am-i-1.html",
-        "id": "who-am-i-1",
-        "class": "step",
-        "data": {
-            "x": 6000,
-            "y": 0,
-            "z": 3000,
-            "scale": 0.5,
-            "rotate-x": 45,
-            "rotate-y": 0,
-            "rotate-z": 0
-        }
-    },
-    {
         "uri": "who-am-i-3.html",
         "id": "who-am-i-3",
         "class": "step",
@@ -252,20 +238,6 @@
         }
     },
     {
-        "uri": "companies-9.html",
-        "id": "companies-9",
-        "class": "step",
-        "data": {
-            "x": 15000,
-            "y": 0,
-            "z": 18000,
-            "scale": 2,
-            "rotate-x": 44,
-            "rotate-y": 0,
-            "rotate-z": 90
-        }
-    },
-    {
         "uri": "companies-10.html",
         "id": "companies-10",
         "class": "step",
@@ -275,20 +247,6 @@
             "z": 21000,
             "scale": 3,
             "rotate-x": 45,
-            "rotate-y": 0,
-            "rotate-z": 90
-        }
-    },
-    {
-        "uri": "companies-11.html",
-        "id": "companies-11",
-        "class": "step",
-        "data": {
-            "x": 15000,
-            "y": 0,
-            "z": 24000,
-            "scale": 4,
-            "rotate-x": 46,
             "rotate-y": 0,
             "rotate-z": 90
         }
@@ -434,20 +392,6 @@
         }
     },
     {
-        "uri": "about-us-2.html",
-        "id": "about-us-2",
-        "class": "step",
-        "data": {
-            "x": -9000,
-            "y": 18000,
-            "z": -9000,
-            "scale": 1,
-            "rotate-x": 90,
-            "rotate-y": 0,
-            "rotate-z": 90
-        }
-    },
-    {
         "uri": "about-us-3.html",
         "id": "about-us-3",
         "class": "step",
@@ -583,20 +527,6 @@
             "z": 21000,
             "scale": 1,
             "rotate-x": 48,
-            "rotate-y": 0,
-            "rotate-z": 90
-        }
-    },
-    {
-        "uri": "about-us-13.html",
-        "id": "about-us-13",
-        "class": "step",
-        "data": {
-            "x": -9000,
-            "y": 18000,
-            "z": 24000,
-            "scale": 1,
-            "rotate-x": 47,
             "rotate-y": 0,
             "rotate-z": 90
         }
