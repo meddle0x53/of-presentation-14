@@ -48,7 +48,7 @@
     }
     if (event.keyCode === 77) {
       // 'm'
-      impressApi.goto('menagement-1');
+      impressApi.goto('management-1');
     }
     if (event.keyCode === 85) {
       // 'u'
@@ -75,6 +75,44 @@
     if (event.keyCode === 66) {
       // 'b'
       window.history.back()
+    }
+
+
+    if (event.keyCode === 49) {
+      // '1' - populism in companies
+      impressApi.goto('companies-8');
+    }
+    if (event.keyCode === 50) {
+      // '2' - processes
+      impressApi.goto('management-4');
+    }
+    if (event.keyCode === 51) {
+      // '3' - late choices
+      impressApi.goto('management-8');
+    }
+    if (event.keyCode === 52) {
+      // '4' - talking
+      impressApi.goto('about-us-4');
+    }
+    if (event.keyCode === 53) {
+      // '5' - reasons why you took the road
+      impressApi.goto('about-us-15');
+    }
+    if (event.keyCode === 54) {
+      // '6' - things that you don't like in the industry as it is
+      impressApi.goto('the-world-6');
+    }
+    if (event.keyCode === 55) {
+      // '7' - freedom for you
+      impressApi.goto('freedom-3');
+    }
+    if (event.keyCode === 56) {
+      // '8' - Coda
+      impressApi.goto('coda-1');
+    }
+    if (event.keyCode === 57) {
+      // '9' - Resources and people
+      impressApi.goto('companies-3');
     }
   }, false);
 
