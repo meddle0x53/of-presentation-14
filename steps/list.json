@@ -266,8 +266,8 @@
         }
     },
     {
-        "uri": "menagement-1.html",
-        "id": "menagement-1",
+        "uri": "management-1.html",
+        "id": "management-1",
         "class": "step",
         "data": {
             "x": 0,
@@ -280,8 +280,8 @@
         }
     },
     {
-        "uri": "menagement-2.html",
-        "id": "menagement-2",
+        "uri": "management-2.html",
+        "id": "management-2",
         "class": "step",
         "data": {
             "x": -18000,
@@ -294,8 +294,8 @@
         }
     },
     {
-        "uri": "menagement-3.html",
-        "id": "menagement-3",
+        "uri": "management-3.html",
+        "id": "management-3",
         "class": "step",
         "data": {
             "x": -15000,
@@ -308,8 +308,8 @@
         }
     },
     {
-        "uri": "menagement-4.html",
-        "id": "menagement-4",
+        "uri": "management-4.html",
+        "id": "management-4",
         "class": "step",
         "data": {
             "x": 0,
@@ -322,8 +322,8 @@
         }
     },
     {
-        "uri": "menagement-5.html",
-        "id": "menagement-5",
+        "uri": "management-5.html",
+        "id": "management-5",
         "class": "step",
         "data": {
             "x": 0,
@@ -336,8 +336,8 @@
         }
     },
     {
-        "uri": "menagement-6.html",
-        "id": "menagement-6",
+        "uri": "management-6.html",
+        "id": "management-6",
         "class": "step",
         "data": {
             "x": 0,
@@ -350,8 +350,8 @@
         }
     },
     {
-        "uri": "menagement-7.html",
-        "id": "menagement-7",
+        "uri": "management-7.html",
+        "id": "management-7",
         "class": "step",
         "data": {
             "x": -12000,
@@ -364,8 +364,8 @@
         }
     },
     {
-        "uri": "menagement-8.html",
-        "id": "menagement-8",
+        "uri": "management-8.html",
+        "id": "management-8",
         "class": "step",
         "data": {
             "x": 0,
@@ -532,7 +532,6 @@
         }
     },
     {
-        "uri": "about-us-14.html",
         "id": "about-us-14",
         "class": "step",
         "data": {
