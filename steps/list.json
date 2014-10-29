@@ -42,20 +42,6 @@
         }
     },
     {
-        "uri": "who-am-i-1.html",
-        "id": "who-am-i-1",
-        "class": "step",
-        "data": {
-            "x": 6000,
-            "y": 0,
-            "z": 3000,
-            "scale": 0.5,
-            "rotate-x": 45,
-            "rotate-y": 0,
-            "rotate-z": 0
-        }
-    },
-    {
         "uri": "who-am-i-3.html",
         "id": "who-am-i-3",
         "class": "step",
@@ -252,20 +238,6 @@
         }
     },
     {
-        "uri": "companies-9.html",
-        "id": "companies-9",
-        "class": "step",
-        "data": {
-            "x": 15000,
-            "y": 0,
-            "z": 18000,
-            "scale": 2,
-            "rotate-x": 44,
-            "rotate-y": 0,
-            "rotate-z": 90
-        }
-    },
-    {
         "uri": "companies-10.html",
         "id": "companies-10",
         "class": "step",
@@ -275,20 +247,6 @@
             "z": 21000,
             "scale": 3,
             "rotate-x": 45,
-            "rotate-y": 0,
-            "rotate-z": 90
-        }
-    },
-    {
-        "uri": "companies-11.html",
-        "id": "companies-11",
-        "class": "step",
-        "data": {
-            "x": 15000,
-            "y": 0,
-            "z": 24000,
-            "scale": 4,
-            "rotate-x": 46,
             "rotate-y": 0,
             "rotate-z": 90
         }
@@ -308,8 +266,8 @@
         }
     },
     {
-        "uri": "menagement-1.html",
-        "id": "menagement-1",
+        "uri": "management-1.html",
+        "id": "management-1",
         "class": "step",
         "data": {
             "x": 0,
@@ -322,8 +280,8 @@
         }
     },
     {
-        "uri": "menagement-2.html",
-        "id": "menagement-2",
+        "uri": "management-2.html",
+        "id": "management-2",
         "class": "step",
         "data": {
             "x": -18000,
@@ -336,8 +294,8 @@
         }
     },
     {
-        "uri": "menagement-3.html",
-        "id": "menagement-3",
+        "uri": "management-3.html",
+        "id": "management-3",
         "class": "step",
         "data": {
             "x": -15000,
@@ -350,8 +308,8 @@
         }
     },
     {
-        "uri": "menagement-4.html",
-        "id": "menagement-4",
+        "uri": "management-4.html",
+        "id": "management-4",
         "class": "step",
         "data": {
             "x": 0,
@@ -364,8 +322,8 @@
         }
     },
     {
-        "uri": "menagement-5.html",
-        "id": "menagement-5",
+        "uri": "management-5.html",
+        "id": "management-5",
         "class": "step",
         "data": {
             "x": 0,
@@ -378,8 +336,8 @@
         }
     },
     {
-        "uri": "menagement-6.html",
-        "id": "menagement-6",
+        "uri": "management-6.html",
+        "id": "management-6",
         "class": "step",
         "data": {
             "x": 0,
@@ -392,8 +350,8 @@
         }
     },
     {
-        "uri": "menagement-7.html",
-        "id": "menagement-7",
+        "uri": "management-7.html",
+        "id": "management-7",
         "class": "step",
         "data": {
             "x": -12000,
@@ -406,8 +364,8 @@
         }
     },
     {
-        "uri": "menagement-8.html",
-        "id": "menagement-8",
+        "uri": "management-8.html",
+        "id": "management-8",
         "class": "step",
         "data": {
             "x": 0,
@@ -429,20 +387,6 @@
             "z": -12000,
             "scale": 1,
             "rotate-x": 0,
-            "rotate-y": 0,
-            "rotate-z": 90
-        }
-    },
-    {
-        "uri": "about-us-2.html",
-        "id": "about-us-2",
-        "class": "step",
-        "data": {
-            "x": -9000,
-            "y": 18000,
-            "z": -9000,
-            "scale": 1,
-            "rotate-x": 90,
             "rotate-y": 0,
             "rotate-z": 90
         }
@@ -588,21 +532,6 @@
         }
     },
     {
-        "uri": "about-us-13.html",
-        "id": "about-us-13",
-        "class": "step",
-        "data": {
-            "x": -9000,
-            "y": 18000,
-            "z": 24000,
-            "scale": 1,
-            "rotate-x": 47,
-            "rotate-y": 0,
-            "rotate-z": 90
-        }
-    },
-    {
-        "uri": "about-us-14.html",
         "id": "about-us-14",
         "class": "step",
         "data": {
