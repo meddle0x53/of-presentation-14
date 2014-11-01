@@ -1,6 +1,21 @@
 ## Презентация : За свободата, програмиста и менажерията
 
 ### Презентацията
+
+#### Build
+ * Свалете си node.js- може да ползватеа [NVM](https://github.com/creationix/nvm)
+ * Инсталирайте си глоблано bower и grunt-cli с npm
+  * ``` npm install -g bower ```
+  * ``` npm install -g grunt-cli ```
+ * Свалете си проекта от това git repository.
+  * ``` git clone https://github.com/meddle0x53/of-presentation-14.git ```
+ * От директорията на проекта:
+  * ``` npm install ```
+  * ``` bower install ```
+  * ``` grunt server ```
+ * Ами това е - презентацията ще ви чака на 'http://localhost:9000'
+
+### View
  * [Online available](http://meddle0x53.github.io/of-presentation-14)
  * В презентацията има следните shortcut-и:
   * За бележки от автора - `p`
@@ -15,6 +30,16 @@
   * За Свободата - `f` (freedom)
   * Назад `<-`
   * Напред `->`
+ * Дискусии
+  * Populism in companies
+  * Processes
+  * Late choices
+  * Talking about changes
+  * Reasons why you took the road.
+  * Things that you don't like in the industry as it is
+  * Freedom for you
+  * Coda
+  * Resources and people
 
 
 ### Автор - Meddle
