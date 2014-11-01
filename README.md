@@ -30,6 +30,16 @@
   * За Свободата - `f` (freedom)
   * Назад `<-`
   * Напред `->`
+ * Дискусии
+  * Populism in companies
+  * Processes
+  * Late choices
+  * Talking about changes
+  * Reasons why you took the road.
+  * Things that you don't like in the industry as it is
+  * Freedom for you
+  * Coda
+  * Resources and people
 
 
 ### Автор - Meddle
